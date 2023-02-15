@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/214657423569321984?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/214657423569321984)
 
-
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=qu3&theme=gotham&hide_border=true&area=true)-->
 

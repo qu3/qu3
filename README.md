@@ -30,4 +30,4 @@
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Joao47;)](https://git.io/typing-svg)

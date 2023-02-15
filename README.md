@@ -2,7 +2,8 @@
 <a href=></a>
 <br><br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/214657423569321984)](https://discord.com/users/214657423569321984)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/214657423569321984?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/214657423569321984)
+
 
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=qu3&theme=gotham&hide_border=true&area=true)-->
